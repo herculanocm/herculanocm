@@ -33,6 +33,7 @@
 <p>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" width="80" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" width="80" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/terraform-original-wordmark.svg" height="70" width="80" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="70" width="80" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="70" width="80" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"  height="70" width="80" />
@@ -42,6 +43,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height="70"  width="80" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="80" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="70" width="80" />
+  
 
 
 </p><br/>
