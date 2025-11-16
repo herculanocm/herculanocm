@@ -20,11 +20,11 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="70" width="80"/>
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="70" width="80"/>
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="70" width="80"/>
+  <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" height="70"  width="80" />
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="70" width="80" />
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="70"  width="80"/>
   <img align="center"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="70"  width="80" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="70"  width="80" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" height="70"  width="80" />        
+  <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="70"  width="80" />    
  </p><br/>
    
 
