@@ -7,9 +7,6 @@
 </div>
 
 -  👋 Hi, I’m @herculanocm
-- 👀 I’m interested in problem solving and data engineer, analytics and manipulation
-- 🌱 I’m currently tech lead of data engenieer team
-- 😂 I’m also having a great sense of humor with additional touch of memeing..
 - 😎 I love exercises and lift weights
 - 📫 How to reach me -> drop me a mail at herculanocm@outlook.com
 - ❤️ You can ping me at linkedin or above mail.
